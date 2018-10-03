@@ -1,0 +1,23 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeting.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annamj17/Lab08-hugb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annamj17/Lab08-hugb/issues"
+  },
+  "homepage": "https://github.com/annamj17/Lab08-hugb#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
