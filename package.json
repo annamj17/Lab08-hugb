@@ -4,6 +4,7 @@
   "description": "",
   "main": "greeting.js",
   "scripts": {
+    "start": "node ./app.js",
     "test": "jest",
     "watch": "jest --watchAll",
     "clean": "rm -rf node_modules"
@@ -20,6 +21,10 @@
   },
   "homepage": "https://github.com/annamj17/Lab08-hugb#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
